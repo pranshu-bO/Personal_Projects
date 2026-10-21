@@ -1,3 +1,4 @@
+#this is not meant to work in the first once so don't try to
 from CS50p.final_project.project import new_entry, view_report, exit_program
 import os
 import csv
